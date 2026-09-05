@@ -1,3 +1,6 @@
+<img width="1536" height="1024" alt="cashout-negocios-github-hero" src="https://github.com/user-attachments/assets/3d2caab2-6904-478f-a27f-2c1732b3afe8" />
+
+
 # CashOut Negocios
 
 ## Modular Business Operating Platform
