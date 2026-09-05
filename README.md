@@ -602,3 +602,26 @@ CashOut Negocios is an independent business technology project by
 Its objective is to build practical operational infrastructure connecting
 business management, physical commerce, software workflows and payment
 execution through a shared modular platform.
+
+---
+
+# Intellectual Property
+
+CashOut Negocios is a **proprietary commercial technology platform**.
+
+This repository exposes selected architecture, documentation and public
+technical concepts for evaluation, discussion and interoperability purposes.
+
+The production platform, proprietary business logic, private data models,
+payment integrations, POS implementation, security mechanisms and confidential
+partner integrations are maintained separately and remain proprietary.
+
+Public access to this repository does **not** constitute an open-source release
+or transfer ownership of the underlying technology.
+
+See:
+
+- [Intellectual Property](INTELLECTUAL_PROPERTY.md)
+- [License](LICENSE)
+
+Copyright (c) 2026 Andreé Settembrino. All Rights Reserved.

@@ -1,0 +1,117 @@
+CASHOUT NEGOCIOS PROPRIETARY PUBLIC REPOSITORY LICENSE
+
+Copyright (c) 2026 Andreé Settembrino
+All Rights Reserved.
+
+1. Purpose
+
+This repository is publicly accessible for technical evaluation,
+documentation, architecture discussion, interoperability exploration and
+portfolio purposes.
+
+Public availability does not make CashOut Negocios open-source software and
+does not transfer ownership of the underlying technology.
+
+2. Ownership
+
+CashOut Negocios, CashOut Urban, CashOut Restaurant, CashOut Hotel, CashOut POS
+and their original architecture, documentation, software, designs, interfaces
+and related original materials are proprietary works of their respective
+rights holder.
+
+Except for rights expressly granted by this license, all rights are reserved.
+
+3. Permission to View
+
+You may:
+
+- access and read the materials published in this repository;
+- reference and discuss the public architecture;
+- link to this repository;
+- quote limited portions where permitted by applicable law and with
+  appropriate attribution.
+
+4. Restrictions
+
+Without prior written permission from the rights holder, you may not:
+
+- use these materials for commercial purposes;
+- copy or redistribute substantial portions of this repository;
+- commercially reproduce the platform or its proprietary components;
+- create or distribute derivative commercial implementations based on
+  proprietary material described here;
+- sublicense, sell or commercially exploit these materials;
+- represent CashOut technology or documentation as your own work;
+- use CashOut branding in a way that implies authorization, endorsement or
+  affiliation;
+- attempt to reconstruct private production systems from this public
+  repository.
+
+5. Private and Proprietary Components
+
+No rights are granted to private CashOut technologies, including but not
+limited to:
+
+- production source code;
+- private backend systems;
+- production databases;
+- business and customer data;
+- authentication and authorization mechanisms;
+- proprietary commercial logic;
+- POS production implementations;
+- payment integrations;
+- provider-specific transaction logic;
+- confidential SDK components;
+- device-specific integrations;
+- fraud prevention mechanisms;
+- operational security systems;
+- private APIs;
+- confidential partner integrations;
+- deployment infrastructure.
+
+6. Payment and Partner Infrastructure
+
+Nothing in this license grants access or rights to payment-provider technology,
+partner integrations, credentials, SDKs, transaction protocols or other
+third-party confidential material.
+
+Third-party technologies remain subject to their respective rights,
+agreements and licenses.
+
+7. No Patent License
+
+No patent rights are granted under this license.
+
+Nothing in this repository should be interpreted as an express or implied
+license to any patent, patent application or industrial property right.
+
+8. Trademarks and Branding
+
+No trademark license is granted.
+
+Names, logos and commercial identifiers associated with CashOut and its
+products may be protected under applicable trademark and unfair competition
+law.
+
+9. Contributions
+
+Unless otherwise agreed in writing, contributions accepted into this repository
+do not grant contributors ownership of CashOut's pre-existing intellectual
+property.
+
+10. No Warranty
+
+The materials are provided "AS IS", without warranty of any kind, express or
+implied, to the maximum extent permitted by applicable law.
+
+11. Commercial Licensing
+
+Commercial deployment, licensing, integration or partnership involving CashOut
+technology requires separate authorization.
+
+12. Reservation of Rights
+
+Any right not expressly granted by this license is reserved.
+
+Copyright (c) 2026 Andreé Settembrino
+All Rights Reserved.
